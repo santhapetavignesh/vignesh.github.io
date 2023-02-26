@@ -1,0 +1,85 @@
+.son, a[target]{
+	text-align:center;
+	color:blue;
+	text-decoration:none;
+	 font-weight: bold;
+
+}	
+.son1{
+	background-color:#011f68;
+	height:4%;
+	width:50%;
+	margin-top:4.5%;
+	margin-left:25%;
+	
+}
+.son2{
+	background-color:white;
+	height:67%;
+		width:74%;
+	margin-left:13%;
+	background-image:url(./hello1.jfif);
+	background-repeat:no-repeat;
+	background-position:center;
+	
+	
+}
+.son3{
+	background-color:#011f68;
+	height:9%;
+		width:50%;
+	margin-left:25%;
+	
+}
+.child1{
+	background-color:white;
+	float:left;
+	height:100%;
+	width:25%;
+	background-image:url(./hello2.jpeg);
+	background-repeat:no-repeat;
+	background-size:50% 40%;
+	background-position:center;
+}
+.child2{
+	background-color:#011f68;
+	float:left;
+	height:100%;
+	width:50%;
+	border-radius:50%;
+}
+.child3{
+	background-color:white;
+	float:left;
+	height:100%;
+	width:25%;
+	background-image:url(./hello3.jpeg);
+	background-repeat:no-repeat;
+	background-size:50% 40%;
+	background-position:center;
+
+}
+.bodyindex{background-color:white;
+	margin:auto;
+	}
+
+.divone{
+	background-color: orange;
+	height:15%;
+	
+}
+.divtwo{
+	background-color: white;
+	height:70%;
+}
+.divthree{
+	background-color: green;
+	height:15%;
+}
+
+.balu{
+	background-image:url("./forgotimage2.jfif");
+	background-repeat:no-repeat;
+	
+}
+
